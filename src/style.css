@@ -1,1 +1,17 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+.inpmessage {
+  height: 100px;
+}
+span {
+  color: gray;
+  font-size: 12px;
+  font-weight: 500;
+}
+.bggray {
+  background-color: rgb(250, 244, 244);
+  margin: 0;
+  border: none;
+  margin: 0;
+  padding: 0;
+}
